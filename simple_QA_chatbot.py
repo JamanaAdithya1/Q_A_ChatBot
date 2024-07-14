@@ -32,6 +32,3 @@ if(input and submit) :
     # st.subheader("The response is")
     for chunk in response: 
         st.write(chunk.text)
-
-
-
